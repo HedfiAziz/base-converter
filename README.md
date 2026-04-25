@@ -1,5 +1,7 @@
 # 🔢 Base Converter (PyQt5)
 
+<img width="804" height="374" alt="image" src="https://github.com/user-attachments/assets/f04d13c9-440f-477d-b452-75f597c34e9d" />
+
 A simple desktop application to convert numbers between different bases (2–16).
 
 ---
@@ -23,3 +25,5 @@ A simple desktop application to convert numbers between different bases (2–16)
 ```bash
 pip install -r requirements.txt
 python main.py
+
+
